@@ -13,13 +13,13 @@
 
 ## Estilos de Programación aplicados
 ### asv
-aasdf
-*asdfasdf
+* aasdfLLLL
+* asdfasdf
 
 ### babs
-*asdfadsf
+* asdfadsf
 asdf
 
-
+Estilos de programación utilizados
 ## Principios SOLID aplicados
 ## Conceptos DDD aplicados
