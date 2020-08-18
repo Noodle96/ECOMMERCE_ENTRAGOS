@@ -1,5 +1,10 @@
 # ECOMMERCE_ ENTRAGOS
 ## Propósito del Proyecto
+El presente proyecto tiene como propósito definir las tecnicas y herramientas de desarrollo de software y demás detalles relevantes para el desarrollo de un sistema web de venta de licores para
+usuarios mayores de 18 años1
+, mostrara información del producto, métodos de envió y pago proporcionado por terceros, esto proporcionara una mayor fluidez en el mercado de licores, proporcionando
+la facilidad al consumidor de comprar productos en múltiples contextos, y facilidad a la empresa
+proveedora de evitar gastos que involucraría una comercio físico.
 ## Funcionalidades
 ## Práctica de código legible aplicadas
 * Comentarios en las funciones mas robustas.
