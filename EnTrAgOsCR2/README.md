@@ -6,6 +6,10 @@ usuarios mayores de 18 años1
 la facilidad al consumidor de comprar productos en múltiples contextos, y facilidad a la empresa
 proveedora de evitar gastos que involucraría una comercio físico.
 ## Funcionalidades
+Se quiere realizar un sistema para una empresa especializada en la comercialización de licor. Este
+sistema estará compuesto por módulos independientes; ventas, compras, inventario y seguridad,
+también se requiere registrar al cliente para que este acceda al sistema, asimismo almacenar datos
+que se consideren necesarios.
 ## Práctica de código legible aplicadas
 * Comentarios en las funciones mas robustas.
 * Identación consistente.
@@ -48,6 +52,13 @@ proveedora de evitar gastos que involucraría una comercio físico.
 
 
 ## Principios SOLID aplicados
+### SRP
+Este primer principio dice que "una clase debe tener una sola razón para cambiar", es decir , debe tener una responsabilidad única. Básicamente, este principio se refiere específicamente a la cohesión
+### OCP
+ Podemos extender el comportamiento de una clase, cuando sea necesario, a través de la herencia , la interfaz y la composición , pero no podemos permitir que la apertura de esta clase para hacer modificaciones menores.
+### SLP
+Este principio fue descrito por el investigador Barbara Liskov , en su artículo de 1988, explica que antes de optar por herencia, tenemos que pensar en las condiciones previas y post-condiciones de su clase. La herencia debe ser utilizada de forma contextualizada y moderada, evitando los casos de clases ser extendidas sólo por poseer algo en común.
+
 ## Conceptos DDD aplicados
 * Lenguaje Ubicuo: Ubiquitous Language
 * Capas de la arquitectura
