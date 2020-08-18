@@ -12,8 +12,13 @@
 * Separación de código y datos.
 
 ## Estilos de Programación aplicados
+### asv
+aasdf
+*asdfasdf
 
-
+### babs
+*asdfadsf
+asdf
 
 
 ## Principios SOLID aplicados
