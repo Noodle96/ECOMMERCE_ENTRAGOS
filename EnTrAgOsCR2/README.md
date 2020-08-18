@@ -54,8 +54,7 @@ que se consideren necesarios.
 ## Principios SOLID aplicados
 ### SRP
 Este primer principio dice que "una clase debe tener una sola razón para cambiar", es decir , debe tener una responsabilidad única. Básicamente, este principio se refiere específicamente a la cohesión
-### OCP
- Podemos extender el comportamiento de una clase, cuando sea necesario, a través de la herencia , la interfaz y la composición , pero no podemos permitir que la apertura de esta clase para hacer modificaciones menores.
+
 ### SLP
 Este principio fue descrito por el investigador Barbara Liskov , en su artículo de 1988, explica que antes de optar por herencia, tenemos que pensar en las condiciones previas y post-condiciones de su clase. La herencia debe ser utilizada de forma contextualizada y moderada, evitando los casos de clases ser extendidas sólo por poseer algo en común.
 
