@@ -44,3 +44,6 @@
 
 ## Principios SOLID aplicados
 ## Conceptos DDD aplicados
+* Lenguaje Ubicuo: Ubiquitous Language
+* Capas de la arquitectura
+* Módulos (Modules).
